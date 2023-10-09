@@ -1,0 +1,8 @@
+{
+  "timestamp": 1696819892073,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "java.lang.NullPointerException",
+  "message": "No message available",
+  "path": "/init_TA"
+}
